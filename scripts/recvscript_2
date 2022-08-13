@@ -1,0 +1,19 @@
+Script started on 2022-03-06 00:00:46+0530
+ravi@ravi-laptop:~/iitm/ns/lab2/CS21M050_LAB2/receiver$ openssl -helpgenrsa -helpciphers[Kexit[Kls -al./client.py -n ravind -m  R -i test1.dat -d 192.168.29.79 -q 60001 -s outenc_2.enc -o outfile_2.txt -a 1922.168.29.79 -p 60000
+**************************Requesting for Certificate**************************
+Server is listening...
+
+To ('192.168.29.79', 60000):Sent 301 request.
+From ('192.168.29.79', 60000):Received 302 information.
+Signature matched.
+Certificate saved in Certificate.dat.
+**************************Acting as a Receiver**************************
+Sleep for 15 seconds.
+From ('192.168.29.79', 60001): Send file request...
+To ('192.168.29.79', 60001): Sent 501 request.
+From ('192.168.29.79', 60001): Received 502 information.
+Invalid Signature.
+ravi@ravi-laptop:~/iitm/ns/lab2/CS21M050_LAB2/receiver$ exit
+exit
+
+Script done on 2022-03-06 00:01:45+0530

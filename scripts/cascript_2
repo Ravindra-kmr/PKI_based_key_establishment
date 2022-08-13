@@ -1,0 +1,20 @@
+Script started on 2022-03-05 23:58:57+0530
+ravi@ravi-laptop:~/iitm/ns/lab2/CS21M050_LAB2/ca$ openssl -helpgenrsa -helpciphers[Kexit[Kls -al./client.py -n ravind -m R -i ttest1.dat -d 192.168.29.79 -q 60001 -s outenc_2.enc -o outfile_2.txt -a 192.168.229.79 -p 60000[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[K
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls -al./client.py -n dondon -m S -q 660001 -a 192.168.29.79 -p 60000[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls -al./ca.py -p 60000 -o output_2.txxt
+Server started...
+Connected to ('192.168.29.79', 47310)
+Connected to ('192.168.29.79', 47312)
+e ^CTraceback (most recent call last):
+  File "./ca.py", line 98, in <module>
+    start()
+  File "./ca.py", line 91, in start
+    clientsocket,clientaddr = skt.accept()
+  File "/usr/lib/python3.6/socket.py", line 205, in accept
+    fd, addr = self._accept()
+KeyboardInterrupt
+ravi@ravi-laptop:~/iitm/ns/lab2/CS21M050_LAB2/ca$ exit
+exit
+
+Script done on 2022-03-06 00:01:54+0530

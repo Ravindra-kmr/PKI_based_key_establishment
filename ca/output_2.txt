@@ -1,0 +1,24 @@
+Opening Socket on given portnumber:60000 over all interfaces.
+Listening...
+
+*****************Connected to ('192.168.29.79', 47310)*****************
+To ('192.168.29.79', 47310): Server is listening...
+From ('192.168.29.79', 47310): Received 301 request.
+('192.168.29.79', 47310): Decrypted client's name: b'dondon'
+('192.168.29.79', 47310): Generated 8 byte nonce.
+('192.168.29.79', 47310): Certificate expire date is: 2023-03-06.
+('192.168.29.79', 47310): Generated client certificate.
+('192.168.29.79', 47310): Generated Hash of certificate and Signed the Hash using CA's private key.
+('192.168.29.79', 47310): Encrypted signed-hash using client's public key.
+To ('192.168.29.79', 47310): Sent 302 information.
+
+*****************Connected to ('192.168.29.79', 47312)*****************
+To ('192.168.29.79', 47312): Server is listening...
+From ('192.168.29.79', 47312): Received 301 request.
+('192.168.29.79', 47312): Decrypted client's name: b'ravind'
+('192.168.29.79', 47312): Generated 8 byte nonce.
+('192.168.29.79', 47312): Certificate expire date is: 2023-03-06.
+('192.168.29.79', 47312): Generated client certificate.
+('192.168.29.79', 47312): Generated Hash of certificate and Signed the Hash using CA's private key.
+('192.168.29.79', 47312): Encrypted signed-hash using client's public key.
+To ('192.168.29.79', 47312): Sent 302 information.

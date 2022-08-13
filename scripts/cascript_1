@@ -1,0 +1,17 @@
+Script started on 2022-03-05 23:20:39+0530
+ravi@ravi-laptop:~/iitm/ns/lab2/CS21M050_LAB2/ca$ mkdir scripts[8Pcd ..[1Pexit./ca.py -p 60000 -o output.txt [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kt
+Server started...
+Connected to ('127.0.0.1', 54242)
+Connected to ('127.0.0.1', 54248)
+^CTraceback (most recent call last):
+  File "./ca.py", line 98, in <module>
+    start()
+  File "./ca.py", line 91, in start
+    clientsocket,clientaddr = skt.accept()
+  File "/usr/lib/python3.6/socket.py", line 205, in accept
+    fd, addr = self._accept()
+KeyboardInterrupt
+ravi@ravi-laptop:~/iitm/ns/lab2/CS21M050_LAB2/ca$ exit
+exit
+
+Script done on 2022-03-05 23:22:31+0530

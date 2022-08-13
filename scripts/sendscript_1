@@ -1,0 +1,22 @@
+Script started on 2022-03-05 23:21:24+0530
+ravi@ravi-laptop:~/iitm/ns/lab2/CS21M050_LAB2/sender$ mkdir scripts[8Pcd ..[1Pexit./ca.py -p 60000 -o output..txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./client.py -n piyush -m S  -q 60001 -a 0.0.0.0 -p 60000
+**************************Requesting for Certificate**************************
+Server is listening...
+
+To ('0.0.0.0', 60000):Sent 301 request.
+From ('0.0.0.0', 60000):Received 302 information.
+Signature matched.
+Certificate saved in Certificate.dat.
+**************************Acting as a Sender**************************
+Connected to ('127.0.0.1', 41594)
+From ('127.0.0.1', 41594): Received 501 request.
+Sent certificate to receiver.
+From ('127.0.0.1', 41594): Received 503 request.
+Decrypted the session key.
+To ('127.0.0.1', 41594): Sent the encrypted requested file.
+
+ravi@ravi-laptop:~/iitm/ns/lab2/CS21M050_LAB2/sender$ exit
+exit
+
+Script done on 2022-03-05 23:22:34+0530

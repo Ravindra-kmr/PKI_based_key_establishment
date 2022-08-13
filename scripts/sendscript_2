@@ -1,0 +1,27 @@
+Script started on 2022-03-05 23:59:20+0530
+ravi@ravi-laptop:~/iitm/ns/lab2/CS21M050_LAB2/sender$ openssl -helpgenrsa -helpciphers[Kexit[Kls -al./client.py -n ravind -m R  -i test1.dat -d 192.168.29.79 -q 60001 -s outenc_2.enc -o outfile_2.txt -a 192.1168.29.79 -p 60000[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[K
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls -al./client.py -n dondon -m S  -q 60001 -a 192.168.29.79 -p 60000
+**************************Requesting for Certificate**************************
+Server is listening...
+
+To ('192.168.29.79', 60000):Sent 301 request.
+From ('192.168.29.79', 60000):Received 302 information.
+Signature matched.
+Certificate saved in Certificate.dat.
+**************************Acting as a Sender**************************
+Connected to ('192.168.29.79', 52104)
+From ('192.168.29.79', 52104): Received 501 request.
+Sent certificate to receiver.
+Traceback (most recent call last):
+  File "./client.py", line 237, in <module>
+    start()
+  File "./client.py", line 58, in start
+    Sender(myname,clientport)
+  File "./client.py", line 145, in Sender
+    code = int(recdata[0])
+ValueError: invalid literal for int() with base 10: ''
+ravi@ravi-laptop:~/iitm/ns/lab2/CS21M050_LAB2/sender$ exit
+exit
+
+Script done on 2022-03-06 00:01:49+0530

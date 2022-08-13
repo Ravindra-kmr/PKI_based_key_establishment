@@ -1,0 +1,30 @@
+Script started on 2022-03-05 23:21:49+0530
+ravi@ravi-laptop:~/iitm/ns/lab2/CS21M050_LAB2/receiver$ mkdir scripts[8Pcd ..[1Pexit./ca.py -p 60000 -o outpuut.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./client.py -n piyush -m  S -q 60001 -a 0.0.0.0 -p 60000[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./client.py -n ravind -m  R -i test1.dat -d 0.0.0.0 -q 60001 -s outenc.enc -o outfile.txt -a 0.0.0.0 -p 600000
+**************************Requesting for Certificate**************************
+Server is listening...
+
+To ('0.0.0.0', 60000):Sent 301 request.
+From ('0.0.0.0', 60000):Received 302 information.
+Signature matched.
+Certificate saved in Certificate.dat.
+**************************Acting as a Receiver**************************
+Sleep for 15 seconds.
+From ('0.0.0.0', 60001): Send file request...
+To ('0.0.0.0', 60001): Sent 501 request.
+From ('0.0.0.0', 60001): Received 502 information.
+Signature matched.
+Sender's Certificate valid.
+Generated session key.
+Encrypted session key with sender's public key.
+Requesting file test1.dat.
+To ('0.0.0.0', 60001): Sent 503 request.
+From ('0.0.0.0', 60001): Received 504 information.
+Dumped encrypted data in outenc.enc.
+Dumped requested data in outfile.txt.
+
+ravi@ravi-laptop:~/iitm/ns/lab2/CS21M050_LAB2/receiver$ exit
+exit
+
+Script done on 2022-03-05 23:22:37+0530
